@@ -61,12 +61,3 @@ Repository URL:
 ```text
 https://github.com/teededung/actualized-openclaw-skills
 ```
-
-## Tieng Viet
-
-Day la bo skill OpenClaw minh dang dung hang ngay trong workflow ca nhan.
-
-- Cac skill se duoc cap nhat dan theo thoi gian.
-- Neu skill can API key, doc phan huong dan ben tren.
-- Rieng `url-to-markdown`, lay `CLAW_API_KEY` tai:
-  [https://claw.ai.vn/markdown-for-agents](https://claw.ai.vn/markdown-for-agents)
